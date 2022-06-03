@@ -1,5 +1,18 @@
 #include <stdio.h>
 
+/**
+ *
+ *  * main - prints the phrase with proper grammar,
+ *
+ *  *using puts to print
+ *
+ *    
+      */
+
+
+
+
+
 int main(void)
 	{
 		puts("\"Programming is like building a multilingual puzzle");
