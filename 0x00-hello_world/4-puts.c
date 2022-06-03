@@ -1,20 +1,22 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
  *
- *  * main - prints the phrase with proper grammar,
+ *  * main - Entry point
  *
- *  *using puts to print
+ *   *
  *
- *    
-      */
-
-
-
-
+ *    * Return: Always 0 (Success)
+ *
+ *
+  */
 
 int main(void)
-	{
+
+{
+
 		puts("\"Programming is like building a multilingual puzzle");
-		return (0);
-	}
+
+			return (0);
+
+}
